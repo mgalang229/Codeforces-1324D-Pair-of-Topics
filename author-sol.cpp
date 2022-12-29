@@ -22,7 +22,7 @@ a[i] + a[j] > b[i] + b[j]
 a[i] + a[j] - b[i] - b[j] > 0
 a[i] - b[i] + a[j] - b[j] > 0
 
-let c[i] = a[i] - b[i]
+let c[i] = a[i] - b[i] and c[j] = a[j] - b[j]
 
 0 3 -2 5 -1
 -2 -1 0 3 5
